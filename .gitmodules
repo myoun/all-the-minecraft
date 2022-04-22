@@ -1,0 +1,3 @@
+[submodule "mc-server-generator"]
+	path = mc-server-generator
+	url = https://github.com/myoun/mc-server-generator
